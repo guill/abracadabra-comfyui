@@ -1,0 +1,14 @@
+[project]
+name = "abracadabra-comfyui"
+description = "Nodes:Abracadabra Summary, Abracadabra"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/guill/abracadabra-comfyui"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "abracadabra-comfyui"
+Icon = ""
